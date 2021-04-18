@@ -1,0 +1,57 @@
+
+
+
+body {
+    background-image: url(img/fundo.png);
+    background-color: #d2d2c1;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #4B566A;
+    font-weight: bold;
+    padding: 5px;
+    
+}
+
+h1 {
+    font-size: 1.2em;
+    color: #828271;
+}
+
+nav {
+    margin: 0 150px 0px 150px;
+}
+
+
+#principal{
+    
+    width: 900px;
+    margin: auto;
+}
+
+#conteudo {
+    background-color: #E8E8D9;
+    padding: 10px;
+    
+}
+
+#menu {
+    background-color: #c5c5b2;
+    padding: 15px;
+}
+
+.rodape {
+    text-align: center;
+}
+
+.fotos {
+    border: #C3C3AE 10px solid;
+}
+
+.bold{
+    font-weight: bold;
+}
